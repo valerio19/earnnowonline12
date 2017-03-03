@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-02-14_1112",
-    "currentPage": "livingyourdream.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -494,10 +494,10 @@
           },
           "_anchor": "header2-16",
           "_params": {
-            "imageSize": "53",
+            "imageSize": "47",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-14-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-15-2000x1333.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -532,7 +532,7 @@
             }
           },
           "title": "GET STARTED BY SIGNING UP FOR OSP.",
-          "text": "We all know that in order for us to make money we have to invest a little, so signing up for OSP your membership will cost $37 bucks and this is every month, the system that you'll use to promote OSP will cost some cash as well, how much? That will only be determined by you, on the next page (Promote Any Business) I’ll walk you through exactly what you need to do to get your offer on the internet in front millions of people that are ready to buy what you’re selling! For now feel free to sign up for OSP don't worry this section is the hardest part the rest I’ll walk you through, your offer will be up within a day! Leaving you with 29-30 day's worth of membership, you can always ask for a refund as well if somehow you become uncomfortable. Hide your affiliate id this will be needed when using the systems on the next page to drive traffic use the tab below. Make sure you purchase your URL or domain using go-daddy. Example: (earn.com) (makemoney.online) (earnmore.net).",
+          "text": "In order for us to make money we have to invest a little, signing up for OSP your membership will cost $37 bucks and this is every month, the system that you'll use to promote OSP will cost some cash as well, how much? That will only be determined by you, on the next page (Promote Any Business) I’ll walk you through exactly what you need to do to get your offer on the internet in front millions of people that are ready to buy! For now feel free to sign up for OSP don't worry this section is the hardest part the rest I’ll walk you through, your offer will be up within a day! Leaving you with 29-30 day's worth of membership, you can always ask for a refund as well if somehow you become uncomfortable. Hide your affiliate id this will be needed when using the systems on the next page to drive traffic use the tab below. Make sure you purchase your URL or domain using go-daddy. Example: (earn.com) (makemoney.online) (earnmore.net).",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://www.youtube.com/watch?v=9r2NvOwx-X4\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">HIDE AFFILIATE ID</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://onlinesalespro.com/IRF-s-1/?sub=robertron\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SIGN UP OSP</a>"
         },
         {
@@ -1552,7 +1552,7 @@
             "showCaption": true
           },
           "title": "How to live your dream!",
-          "caption": "<p>Living your dream life is something that many people strive to do but often time do not succeed. However, if you are committed to achieving your dream life you are likely to succeed. If you move towards your dreams, be true to yourself, and move away from the past you can start to live your dream life.</p>"
+          "caption": "<p>Living your dream life is something that many people strive to do but often time do not succeed. However, if you are committed to achieving your dream life you are likely to succeed. If you move towards your dreams, be true to yourself, and move away from the past you can start to live your dream life.</p><p>(RISE) (STAND) (PUSH) (FOWARD)</p>"
         },
         {
           "_styles": {
